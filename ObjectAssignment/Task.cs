@@ -18,11 +18,6 @@ namespace ObjectAssignment
 
         public void MarkAsFinished()
         {
-            //// even more changes here
-
-
-
-
             // finishedTimestamp = DateTime.Now;
         }
 
