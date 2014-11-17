@@ -12,7 +12,7 @@ namespace ObjectAssignment
         public ToDoItem(string shortDescription, string longDescription, DateTime itemDeadline, string firstTaskDescription)
         {
             /////I CHANGED STUFF HEREEEEEEEEEEEEEEEEE
-
+            Console.WriteLine("IT WORKS!");
             //LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL
             // Do some more here
         }
