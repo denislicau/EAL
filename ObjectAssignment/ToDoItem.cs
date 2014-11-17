@@ -13,6 +13,7 @@ namespace ObjectAssignment
         {
             /////I CHANGED STUFF HEREEEEEEEEEEEEEEEEE
             Console.WriteLine("IT WORKS!");
+            Console.WriteLine("FUCKE YER !");
             //LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL
             // Do some more here
         }
